@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/env python
 # genCheckAccessCTS.py - takes an input SELinux policy.conf file and generates
 # an XML file based on the allow and neverallow rules.  The file contains rules,
 # which are created by expanding the SELinux rule notation into the individual
